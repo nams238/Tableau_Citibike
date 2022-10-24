@@ -45,4 +45,16 @@ Advanced: A dynamic map that shows how each station's popularity changes over ti
 
 The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.![Image 24-10-2022 at 10 20](https://user-images.githubusercontent.com/102623153/197501437-12bde803-78b6-4439-818a-e5bb36cd7cbf.jpg)
 
+![Image 24-10-2022 at 10 18](https://user-images.githubusercontent.com/102623153/197501528-d5614dbc-384f-4d66-b9f8-e440b8657306.jpg)
+![Image 24-10-2022 at 10 17](https://user-images.githubusercontent.com/102623153/197501555-88bded70-b0aa-45c1-88a5-25dd223a6547.jpg)![Image 24-10-2022 at 10 17 2](https://user-images.githubusercontent.com/102623153/197501561-d6d4c679-4792-4468-93a5-4f1197288dbb.jpg)
+
+![Image 24-10-2022 at 10 16](https://user-images.githubusercontent.com/102623153/197501572-68183dca-4562-4e5b-a9d7-964fcf81ad56.jpg)
+![Image 24-10-2022 at 10 16 2](https://user-images.githubusercontent.com/102623153/197501590-507e9a6f-bf86-4597-b2d1-34952ba32de7.jpg)
+
+
+![Image 24-10-2022 at 10 19](https://user-images.githubusercontent.com/102623153/197501525-265ec48d-db71-4748-8a16-062808590e79.jpg)
+![Image 24-10-2022 at 10 18 3](https://user-images.githubusercon![Image 24-10-2022 at 10 16 3](https://user-images.githubusercontent.com/102623153/197501584-e555896f-026f-4e31-9bf5-9b12857fa5e9.jpg)
+tent.com/102623153/197501537-fb7a9581-f4e9-40a6-ae1d-76e385ec54d8.jpg)![Image 24-10-2022 at 10 18 2](https://user-images.githubusercontent.com/102623153/197501548-5c00b376-91f8-483d-af45-77dd0db5ae24.jpg)
+![Image 24-10-2022 at 10 16](https://user-images.githubusercontent.com/102623153/197501575-9b36e829-e876-4f81-b390-e0b306b4828d.jpg)
+
 
